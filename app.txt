@@ -1,2 +1,3 @@
 Application version 1
 Second line
+SSH authentication enabled
